@@ -136,7 +136,7 @@ section .landing-page {
 }
 
 #about-me .main-container {
-    background: url(/Images/about-image.jpg) no-repeat left;
+    background: url(../Images/about-image.jpg) no-repeat left;
     background-size: 55%;
     background-color: white;
     overflow: hidden;
